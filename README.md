@@ -1,3 +1,4 @@
+# Note: Not pushed all project files here.
 # Diabetic_Retina
 It's my major project with my groups.
 Essential Skills are: HTML, CSS, JavaScript, Python, Anaconda(frameworks)
