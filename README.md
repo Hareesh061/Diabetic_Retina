@@ -1,7 +1,7 @@
 # Note: Not pushed all project files here.
 # Diabetic_Retina
 It's my major project with my groups.
-Essential Skills are: HTML, CSS, JavaScript, Python, Anaconda(frameworks)
+Essential Skills are: HTML, CSS, JavaScript, Python, Anaconda and used python frameworks.
 
 # what is this project about..?
 Diabetic retinopathy is an eye condition that can cause vision loss and blindness in people who have diabetes. It affects blood vessels in the retina (the light-sensitive layer of tissue in the back of your eye).
